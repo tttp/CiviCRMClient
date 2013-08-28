@@ -24,7 +24,7 @@ navigate to that subdirectory from your mobile device. You will be prompted for 
 simply login with the same credentials you use for the web based client.
 
 ***** NOTE: This program uses whatever protocol is accessed for the file. So if you access
-the file by going to http://www.yoursite.com/sugarcrm/mobile/index.html then you will be
+the file by going to http://www.yoursite.com/CiviCRMClient/ then you will be
 sending your information over the interenet unsecure. The password is encoded client side so
 it will never be sent in clear text, however you should always use SSL when accessing mobile
 applications.
